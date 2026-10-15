@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Phan Nhat Tien — Application Security Engineer</title><desc id="desc">Building security software. Turning findings into fixes.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1822"/><stop offset="1" stop-color="#101d29"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#87fbd0" stroke-opacity=".045"/></pattern></defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/><rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<rect x="28" y="28" width="1144" height="324" rx="15" fill="none" stroke="#8af3cf" stroke-opacity=".2"/>
+<circle cx="56" cy="55" r="5" fill="#fa7b83"/><circle cx="75" cy="55" r="5" fill="#f4d58c"/><circle cx="94" cy="55" r="5" fill="#8af3cf"/>
+<g font-family="'Segoe UI',Arial,sans-serif"><text x="126" y="60" fill="#8b9da8" font-size="13" letter-spacing="2">TIEN / SECURITY ENGINEERING</text>
+<text x="62" y="126" fill="#8af3cf" font-size="14" font-family="Consolas,monospace">$ whoami</text>
+<text x="60" y="192" fill="#eef7f5" font-size="53" font-weight="700" letter-spacing="1">PHAN NHAT TIEN</text>
+<text x="62" y="235" fill="#8af3cf" font-size="22" letter-spacing="3">APPLICATION SECURITY ENGINEER</text>
+<text x="62" y="281" fill="#aebfc8" font-size="19">Building security software. Turning findings into fixes.</text>
+<text x="62" y="324" fill="#718994" font-size="13" font-family="Consolas,monospace">status: learning • building • reviewing • coffee</text></g>
+<g transform="translate(940 122)"><path d="M-34 69Q-45-51 40-61Q125-51 114 69Z" fill="#173b3e" stroke="#8af3cf" stroke-width="3"/><path d="M-8 14Q40-24 88 14L79 59H1Z" fill="#071019"/><rect x="10" y="16" width="22" height="10" rx="5" fill="#8af3cf"/><rect x="49" y="16" width="22" height="10" rx="5" fill="#8af3cf"/><path d="M31 43Q41 51 51 43" fill="none" stroke="#8af3cf" stroke-width="3" stroke-linecap="round"/><rect x="-32" y="64" width="145" height="83" rx="9" fill="#102631" stroke="#547e86" stroke-width="3"/><text x="40" y="116" fill="#8af3cf" font-size="31" text-anchor="middle" font-family="Consolas,monospace">&lt;/&gt;</text><path d="M-45 150H125" stroke="#8af3cf" stroke-width="5" stroke-linecap="round"/><circle cx="117" cy="-25" r="8" fill="#8af3cf"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/></circle></g>
+</svg>
